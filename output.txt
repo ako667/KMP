@@ -1,0 +1,3 @@
+Short test index: 2
+Medium test index: 10
+Long test index: 100000

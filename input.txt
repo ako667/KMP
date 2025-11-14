@@ -1,0 +1,11 @@
+Short test:
+text = "abcde"
+pattern = "cd"
+
+Medium test:
+text = "the quick brown fox jumps over the lazy dog"
+pattern = "brown"
+
+Long test:
+repeated string of length ~100k ending with the word TARGET
+pattern = "TARGET"
